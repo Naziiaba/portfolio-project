@@ -29,11 +29,16 @@ header {
     left: auto;
 }
 
-h1,
+h1 {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 30px;
+  font-weight: bolder;
+}
 h2 {
     font-family: Helvetica, Arial, sans-serif;
-    font-size: 20px;
-    font-weight: bolder;
+    font-size: 24px;
+    font-weight: normal;
+
 }
 
 .banner,
